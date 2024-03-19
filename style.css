@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(88, 144, 248);
+    background-image: url("network2.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size:cover;
+}
+.button1{
+    height:40px;
+    width:90px;
+    background-color: rgb(17, 110, 250);
+    color:white;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-right:40px;
+    border:1px solid rgb(17, 110, 250);
+}
+
+#inputip{
+    background-color: rgb(204, 239, 253);
+    border-radius: 3px;
+    width:250px;
+    height:35px;
+    border:1px solid rgb(204, 239, 253);
+}
+#heading1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:white;
+    
+}
+h4{
+    color:rgb(17, 110, 250);
+}
+
+.card-body{
+    background-color: rgb(204, 239, 253);;
+}
+/* img{
+    width:800px;
+    height:450px;
+    margin-left:400px;
+    margin-top:0px;
+} */
